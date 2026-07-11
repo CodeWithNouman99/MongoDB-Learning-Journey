@@ -25,6 +25,3 @@ This repository contains my MongoDB practice exercises while learning database c
 ## Goal
 
 To strengthen my MongoDB skills through hands-on practice and prepare for backend development interviews.
-
----
-⭐ Feel free to explore the queries and suggest improvements.
